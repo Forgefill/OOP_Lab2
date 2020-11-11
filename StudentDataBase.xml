@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<StudentDataBase>
+  
+  <Faculty ID ="1" FACULTY ="CSC">
+    
+   <Department ID="1" Name ="TTP">
+     
+     <Group GROUP ="TTP-1">
+       <Student ID ="1"
+                NAME ="Michael"
+                SURNAME ="Bubka"
+                RATING ="A"
+                ROOM ="400"
+                >
+         </Student>
+       <Student ID ="2"
+                NAME ="Andrew"
+                SURNAME ="Novak"
+                RATING ="B"
+                ROOM ="223"
+                >
+       </Student>
+       <Student ID ="3"
+                NAME ="Bohdan"
+                SURNAME ="Jhonson"
+                RATING ="C"
+                ROOM ="308"
+                >
+       </Student>
+       </Group>
+     <Group GROUP ="TTP-2">
+       <Student ID ="1"
+                NAME ="Anna"
+                SURNAME ="Ivanova"
+                RATING ="C"
+                ROOM ="205"
+                >
+       </Student>
+       <Student ID ="2"
+                NAME ="Peter"
+                SURNAME ="Bush"
+                RATING ="D"
+                ROOM ="223"
+                >
+       </Student>
+       </Group>
+     
+     <Group GROUP ="TTP-3">
+       <Student ID ="1"
+                NAME ="Michelle"
+                SURNAME ="Adams"
+                RATING ="F"
+                ROOM ="205"
+                >
+       </Student>
+       <Student ID ="2"
+                NAME ="John"
+                SURNAME ="Diamond"
+                RATING ="FX"
+                ROOM ="308"
+                >
+       </Student>
+       </Group>
+    </Department>
+    
+   <Department ID ="2" Name="MI">
+
+     <Group GROUP ="MI-1">
+       <Student ID ="1"
+                       NAME ="Maria"
+                       SURNAME ="Tokar"
+                       RATING ="A"
+                       ROOM ="205"
+                >
+       </Student>
+     </Group>
+     <Group GROUP ="MI-2">
+       <Student ID ="1"
+                NAME ="Rose"
+                SURNAME ="Myrna"
+                RATING ="C"
+                ROOM ="205"
+                >
+       </Student>
+       <Student ID ="2"
+                NAME ="Maksym"
+                SURNAME ="Karpenko"
+                RATING ="FX"
+                ROOM ="223"
+                >
+       </Student>
+     </Group>
+    </Department>
+    
+    <Department ID ="3" Name ="TC">
+     <Group GROUP ="TC-1">
+       <Student ID ="1"
+                NAME ="Illia"
+                SURNAME ="Philipenko"
+                RATING ="B"
+                ROOM ="802"
+                >
+       </Student>
+       <Student ID ="2"
+                NAME ="Serhiy"
+                SURNAME ="Kukla"
+                RATING ="FX"
+                ROOM ="802"
+                >
+       </Student>
+      </Group>
+     </Department>
+   </Faculty >
+  
+  <Faculty ID ="2" FACULTY ="GEOGRAPHICAL">
+    
+    <Department ID ="1" Name ="Hydrology">
+      <Group GROUP ="H1">
+        <Student ID ="1"
+                        NAME ="Nastya"
+                        SURNAME ="Shumylo"
+                        RATING ="C"
+                        ROOM ="511"
+                >
+        </Student>
+        <Student ID ="2"
+                 NAME ="Igor"
+                 SURNAME ="Rybak"
+                 RATING ="A"
+                 ROOM ="202"
+                >
+        </Student>
+      </Group>
+      <Group GROUP ="H2">
+        <Student ID ="1"
+                        NAME ="Igor"
+                        SURNAME ="Mykytin"
+                        RATING ="F"
+                        ROOM ="400"
+                >
+        </Student>
+        <Student ID ="2"
+                 NAME ="Dmytro"
+                 SURNAME ="Firtash"
+                 RATING ="A"
+                 ROOM ="202"
+                >
+        </Student>
+      </Group>
+    </Department>
+    
+    <Department ID ="2" Name ="Geodesy">
+      <Group GROUP ="G1">
+        <Student ID ="1"
+                        NAME ="Michael"
+                        SURNAME ="Black"
+                        RATING ="B"
+                        ROOM ="303"
+                >
+        </Student>
+        <Student ID ="2"
+                 NAME ="Jhon"
+                 SURNAME ="Travolta"
+                 RATING ="FX"
+                 ROOM ="202"
+                >
+        </Student>
+      </Group>
+      <Group GROUP ="G2">
+<Student ID ="1"
+                NAME ="Kate"
+                SURNAME ="Benio"
+                RATING ="C"
+                ROOM ="606"
+                >
+       </Student>
+       <Student ID ="2"
+                NAME ="Vasya"
+                SURNAME ="Movchanov"
+                RATING ="B"
+                ROOM ="400"
+                >
+       </Student>
+      </Group>
+    </Department>
+  
+   </Faculty>
+  
+  <Faculty ID ="3" FACULTY="LAW">
+    <Department ID ="1" Name ="Philosophy">
+      <Group GROUP ="Phi-1">
+        <Student ID ="1"
+                        NAME ="Andrew"
+                        SURNAME ="Peters"
+                        RATING ="D"
+                        ROOM ="205"
+                >
+        </Student>
+        <Student ID ="2"
+                 NAME ="John"
+                 SURNAME ="Travis"
+                 RATING ="D"
+                 ROOM ="205"
+                >
+        </Student>
+      </Group>
+      <Group GROUP ="phi-2">
+        <Student ID ="1"
+                        NAME ="George"
+                        SURNAME ="Bubka"
+                        RATING ="E"
+                        ROOM ="306"
+                >
+        </Student>
+        <Student ID ="2"
+                 NAME ="Son"
+                 SURNAME ="Dy"
+                 RATING ="E"
+                 ROOM ="400"
+                >
+        </Student>
+      </Group>
+      
+    </Department>
+      
+
+    </Faculty>
+  
+  
+  </StudentDataBase>
